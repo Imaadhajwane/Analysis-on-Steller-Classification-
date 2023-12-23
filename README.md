@@ -35,17 +35,19 @@ The Star Dataset Analysis project utilized the following technologies and tools:
 1. Python: For data preprocessing, analysis, and visualization (Pandas, Matplotlib, Seaborn)
 
 
-### File Information:
+## File Information:
 For better organization of the code file, I have divided the file into 3 different parts:
 
 Part 1 :
   This includes the Data Analysis, Data Cleaning, Finding Data Types, Understanding Data Values.
+  
 Part 2:
   Part 2 is then divided into 3 sub parts
   This includes all the Analysis files, Finding Relations, Relation between different columns, Heatmaps, Confussion Matrix
+  
 Part 3:
   This includes Traning, Splitting, Prediction of values, and Confusion Matrix after traning
 
 
-### PDF
+## PDF
 Along with all the I have also provided a ZIP file of the Parts all together for proper understandings.
