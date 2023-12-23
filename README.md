@@ -32,4 +32,4 @@ The scope involves implementing machine learning models to classify celestial ob
 
 ## Technologies Used
 The Star Dataset Analysis project utilized the following technologies and tools:
-Python: For data preprocessing, analysis, and visualization (Pandas, Matplotlib, Seaborn)
+1. Python: For data preprocessing, analysis, and visualization (Pandas, Matplotlib, Seaborn)
