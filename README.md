@@ -49,6 +49,3 @@ Part 2:
 Part 3:
   This includes Traning, Splitting, Prediction of values, and Confusion Matrix after traning
 
-
-## PDF
-Along with all the I have also provided a ZIP file of the Parts all together for proper understandings.
